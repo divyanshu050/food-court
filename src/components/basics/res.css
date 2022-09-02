@@ -249,7 +249,7 @@
     letter-spacing: 2px;
     text-shadow: 0 0 10px #03bcf4;
     text-transform: uppercase;
-    -webkit-box-reflect: below 1px linear-gradient(transparent, #024d64);
+/*     -webkit-box-reflect: below 1px linear-gradient(transparent, #024d64); */
             line-height: 1.2em;
             outline: none;
             
